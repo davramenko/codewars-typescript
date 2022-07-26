@@ -1,0 +1,12 @@
+/node_modules
+/tmp
+/logs
+/dist
+/.idea
+/.vs
+*.bak
+.env
+.env.backup
+npm-debug.log
+yarn-error.log
+exceptions.log
